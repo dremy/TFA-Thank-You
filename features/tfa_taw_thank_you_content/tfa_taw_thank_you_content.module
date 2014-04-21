@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the TAW Thank You Content feature.
+ */
+
+include_once 'tfa_taw_thank_you_content.features.inc';
